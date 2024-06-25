@@ -1,0 +1,3 @@
+<div>
+    Articles index
+</div>
